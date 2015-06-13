@@ -1,5 +1,5 @@
 package comprehensive;
-//E-tutor 綜合 (Comprehensive) ch05 比較數字大小
+//E-tutor (Comprehensive) ch05
 import java.util.Scanner;
 
 public class ch05{

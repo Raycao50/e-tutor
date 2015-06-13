@@ -1,5 +1,5 @@
 package comprehensive;
-//E-tutor 綜合 (Comprehensive) ch08 計算MVP數值 (得分*1＋助攻*2＋籃板*2＋抄截*2)－(失誤*2)
+//E-tutor  (Comprehensive) ch08 
 import java.util.Scanner;
 
 public class ch08 {

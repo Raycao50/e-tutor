@@ -1,7 +1,7 @@
 package comprehensive;
 import java.util.Scanner;
 
-//E-tutor ºî¦X (Comprehensive) ch04 ¦¨ÁZ§PÂ_
+//E-tutor  (Comprehensive) ch04 
 
 public class ch04 {
 	 public static void main(String[] args) {

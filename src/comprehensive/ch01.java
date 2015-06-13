@@ -1,5 +1,5 @@
 package comprehensive;
-//E-tutor ºî¦X (Comprehensive) ch01 Online Game ¿ï¾Ü¨¤¦â
+//E-tutor  (Comprehensive) ch01 Online Game 
 
 import java.util.Scanner;
 public class ch01{

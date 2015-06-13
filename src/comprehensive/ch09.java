@@ -1,5 +1,5 @@
 package comprehensive;
-//E-tutor ºî¦X (Comprehensive) ch09 The 3n + 1 problem
+//E-tutor  (Comprehensive) ch09 The 3n + 1 problem
 
 import java.util.Scanner;
 

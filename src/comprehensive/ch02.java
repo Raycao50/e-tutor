@@ -1,5 +1,5 @@
 package comprehensive;
-//E-tutor 綜合 (Comprehensive) ch02 Online Game 選擇性別
+//E-tutor  (Comprehensive) ch02 Online Game 
 
 import java.util.Scanner;
 public class ch02{

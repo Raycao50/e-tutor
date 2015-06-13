@@ -1,5 +1,5 @@
 package comprehensive;
-//E-tutor ∫Ó¶X (Comprehensive) ch20 µsπ”≈ÂªÓ
+//E-tutor  (Comprehensive) ch20
 
 import java.util.Scanner;
 import java.util.ArrayList;
